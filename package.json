@@ -1,0 +1,26 @@
+{
+  "name": "burger-sequel",
+  "version": "1.0.0",
+  "description": "Sequelize the `Burger` app made last unit.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brishaw/burger-sequel.git"
+  },
+  "author": "Brian Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brishaw/burger-sequel/issues"
+  },
+  "homepage": "https://github.com/brishaw/burger-sequel#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.41.0"
+  }
+}
