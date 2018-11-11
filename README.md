@@ -5,7 +5,7 @@ The same great restaurant app that you loved before, but now improved using Sequ
 https://secret-atoll-28145.herokuapp.com/
 
 ## What is this repo or project?
-Eat Da Burger is a burger logger with MySQL, Node, Express, Handlebars and Sequelize. It follows the MVC design pattern; using Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
+Eat Da Burger is a burger logger with MySQL, Node, Express, Handlebars and Sequelize. It follows the MVC design pattern; using Node and Sequelize to query and route data in the app, and Handlebars to generate the HTML.
 
 ## Differences in this Version of Eat Da Burger
 * This version uses Sequelize, which is a promise-based ORM for Node.js
